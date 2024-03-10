@@ -1132,3 +1132,6 @@ footer span a:hover {
 .button:hover span:nth-child(4 ) {
   bottom: 50%;
 }
+@media screnn and (max-width: 600px)
+{
+}
